@@ -1,0 +1,6 @@
+presubmit: {
+  check_tests: {
+    failure_status: ERROR
+    project: "archive_patcher"
+  }
+}
